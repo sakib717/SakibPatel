@@ -2,7 +2,7 @@
   "name": "sakibpatel",
   "title": "Sakibpatel",
   "version": "3.3.7+1",
-  "homepage": "http://startbootstrap.com/template-overviews/freelancer",
+  "homepage": "http://sk07.azurewebsites.net/",
   "author": "Sakib Patel",
   
   "devDependencies": {
@@ -19,6 +19,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/BlackrockDigital/startbootstrap-freelancer.git"
+    "url": "https://github.com/sakib717/SakibPatel"
   }
 }
